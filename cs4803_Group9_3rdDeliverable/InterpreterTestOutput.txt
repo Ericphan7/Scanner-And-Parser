@@ -1,0 +1,94 @@
+Log Time:  2019-07-19 23:56:45.059281
+
+==================================================
+
+Parsing SCL File
+
+Parsing <program>
+ Parsing <import_stmnt>
+ Finished parsing <import_stmnt>
+ Parsing <symbol_stmnt>
+ Finished parsing <symbol_stmnt>
+ Parsing <globals>
+ 	Parsing <const_dec>
+ 		Parsing <const_list>
+ 			Parsing <comp_declare>
+ 				Parsing <ret_type>
+ 				Finished parsing <ret_type>
+ 			Finished parsing <comp_declare>
+ 			Parsing <comp_declare>
+ 				Parsing <ret_type>
+ 				Finished parsing <ret_type>
+ 			Finished parsing <comp_declare>
+ 		Finished parsing <const_list>
+ 	Finished parsing <const_dec>
+ 	Parsing <var_dec>
+ 		Parsing <var_list>
+ 			Parsing <comp_declare>
+ 				Parsing <ret_type>
+ 				Finished parsing <ret_type>
+ 			Finished parsing <comp_declare>
+ 		Finished parsing <var_list>
+ 	Finished parsing <var_dec>
+ Finished parsing <globals>
+ Parsing <implement>
+ 	Parsing <funct_list>
+ 		Parsing <funct_body>
+ 			Parsing <var_dec>
+ 				Parsing <var_list>
+ 					Parsing <comp_declare>
+ 						Parsing <ret_type>
+ 						Finished parsing <ret_type>
+ 					Finished parsing <comp_declare>
+ 					Parsing <comp_declare>
+ 						Parsing <ret_type>
+ 						Finished parsing <ret_type>
+ 					Finished parsing <comp_declare>
+ 					Parsing <comp_declare>
+ 						Parsing <ret_type>
+ 						Finished parsing <ret_type>
+ 					Finished parsing <comp_declare>
+ 				Finished parsing <var_list>
+ 			Finished parsing <var_dec>
+ 			Parsing <pactions>
+ 				Parsing <action_def>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <exp>
+ 					Finished parsing <exp>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <exp>
+ 					Finished parsing <exp>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <exp>
+ 					Finished parsing <exp>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <p_var_value_list>
+ 					Finished parsing <p_var_value_list>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <p_var_value_list>
+ 					Finished parsing <p_var_value_list>
+ 				Finished parsing <action_def>
+ 				Parsing <action_def>
+ 					Parsing <p_var_value_list>
+ 					Finished parsing <p_var_value_list>
+ 				Finished parsing <action_def>
+ 			Finished parsing <pactions>
+ 		Finished parsing <funct_body>
+ 	Finished parsing <funct_list>
+ Finished parsing <implement>
+Finished parsing <program>
+
+Finished Parsing SCL File
+==================================================
+
+Enter the diameter of the circle: 1
+Area: 0.7853981625
+Circumference: 3.14159265
+TestBool: mfalse
+
+Process finished with exit code 0
